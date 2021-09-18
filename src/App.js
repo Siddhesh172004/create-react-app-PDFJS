@@ -6,7 +6,7 @@ import '@react-pdf-viewer/core/lib/styles/index.css';
 import '@react-pdf-viewer/default-layout/lib/styles/index.css';
 
 const App = () => {
-    const defaultLayoutPluginInstance = defaultLayoutPlugin();
+//     const defaultLayoutPluginInstance = defaultLayoutPlugin();
 
     return (
         <Worker workerUrl="https://unpkg.com/pdfjs-dist@2.9.359/build/pdf.worker.js">
