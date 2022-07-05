@@ -18,7 +18,7 @@ const App = () => {
                 }}
             >
                 <Viewer
-                    fileUrl={`${process.env.PUBLIC_URL}/siddheshresume.pdf`}
+                    fileUrl={`${process.env.PUBLIC_URL}/siddhesh_resume.pdf`}
                     
                 />
             </div>
